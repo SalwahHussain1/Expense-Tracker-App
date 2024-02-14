@@ -1,0 +1,7 @@
+.new-expense{
+    background-image: linear-gradient(to right,red 0%, #333 );
+    padding: 2rem;
+    width: 100%;
+    max-width: 750px;
+    margin: 2rem auto;
+}
